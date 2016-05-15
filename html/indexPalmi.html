@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Proyecto Palma</title>
+        <!-- icono de proyecto palma -->
+        <link rel="shortcut icon" href="../img/ico.png">
+        <!-- -->
+        <meta content='width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no' name='viewport'>
+        <!-- Bootstrap 3.3.2 -->
+        <link href="../css/bootstrap.min.css" rel="stylesheet" type="text/css" />    
+        <!-- FontAwesome 4.3.0 -->
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
+        <!-- Ionicons 2.0.0 -->
+        <link href="http://code.ionicframework.com/ionicons/2.0.0/css/ionicons.min.css" rel="stylesheet" type="text/css" />    
+        <!-- Theme style -->
+        <link href="../css/AdminLTE.min.css" rel="stylesheet" type="text/css" />
+
+        <!-- Mi style-->
+        <link href="../css/style.css" rel="stylesheet" type="text/css"/>
+        <!-- AdminLTE Skins. Choose a skin from the css/skins 
+             folder instead of downloading all of them to reduce the load. -->
+        <link href="../css/skins/_all-skins.min.css" rel="stylesheet" type="text/css" />
+
+        <!-- Plugins -->
+        <!-- iCheck -->
+        <!--<link href="plugins/iCheck/flat/blue.css" rel="stylesheet" type="text/css" />
+        <!-- Morris chart -->
+        <!--<link href="plugins/morris/morris.css" rel="stylesheet" type="text/css" />
+        <!-- jvectormap -->
+        <!--<link href="plugins/jvectormap/jquery-jvectormap-1.2.2.css" rel="stylesheet" type="text/css" />
+        <!-- Date Picker -->
+        <!--<link href="plugins/datepicker/datepicker3.css" rel="stylesheet" type="text/css" />
+        <!-- Daterange picker -->
+        <!--<link href="plugins/daterangepicker/daterangepicker-bs3.css" rel="stylesheet" type="text/css" />
+        <!-- bootstrap wysihtml5 - text editor -->
+        <!--<link href="plugins/bootstrap-wysihtml5/bootstrap3-wysihtml5.min.css" rel="stylesheet" type="text/css" />
+        <!-- End Plugins -->
+    </head>
+    <body class="skin-green">
+        <div class="wrapper">
+            <!-- Encabezado -->
+            <header class="main-header">
+                <!-- Logo -->
+                <a href="../index.html" class="logo"><strong>Proyecto </strong> <span class="textn">Palma</span></a>
+                <!-- Header Navbar: style se encuentra en header.less -->
+                <nav class="navbar navbar-static-top" role="navigation">
+                    <!-- Sidebar toggle button-->
+                    <a href="#" class="sidebar-toggle" data-toggle="offcanvas" role="button">
+                        <span class="sr-only">Toggle navigation</span>
+                    </a>
+                    <div class="navbar-custom-menu">
+                        <ul class="nav navbar-nav">
+                            <!-- Messages: style can be found in dropdown.less-->
+                            <li class="dropdown messages-menu">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <strong>Iniciar Sesión</strong>                                    
+                                </a>                                
+                            </li>
+
+                        </ul>
+                    </div>
+                </nav>
+            </header>
+
+            <!-- contenido menu columna izq-->
+            <aside class="main-sidebar">
+                <!-- sidebar: style can be found in sidebar.less -->
+                <section class="sidebar">
+                    <!-- Panel usuario -->
+                    <div class="user-panel">
+                        <div class="pull-left image">
+                            <img src="../img/logo.png" class="img-circle" alt="User Image" />
+                        </div>
+                        <div class="pull-left info">
+                            <p>Nombre Usuario</p>
+
+                            <a href="#"><i class="fa fa-circle text-success"></i> Online</a>
+                        </div>
+                    </div>
+                    <!-- sidebar menu: : style can be found in sidebar.less -->
+                    <ul class="sidebar-menu">
+                        <li class="header">MENÚ PRINCIPAL</li>
+                        <li class="active treeview">
+                            <a href="#Home">
+                                <i class="fa fa-dashboard"></i> <span>Inicio</span>
+                            </a>                            
+                        </li>
+                        <li class="treeview">
+                            <a href="#About us">
+                                <i class="fa fa-files-o"></i>
+                                <span>Nosotros</span>                                
+                            </a>                            
+                        </li>
+                        <li>
+                            <a href="#News">
+                                <i class="fa fa-th"></i> <span>Noticias</span>
+                            </a>
+                        </li>                        
+                    </ul>
+                </section>
+                <!-- /.sidebar -->
+            </aside>
+
+            <!-- Columna derecha. contiene navbar y la ruta de la pagina -->
+            <div class="content-wrapper">
+                <!-- Encabezado -->
+                <section class="content-header">
+                    <h1>
+                        Bienvenido
+                    </h1>
+                    <!-- ruta de la pagina -->
+                    <ol class="breadcrumb">
+                        <li><a href="#"><i class="fa fa-dashboard"></i> Inicio</a></li>
+                        <li class="active"></li>
+                    </ol>
+                </section>
+
+                <!-- Contenido Principal de la pagina -->
+                <section class="content">
+                    <!-- Incluir aqui el contenido-->
+                </section><!-- /.contenido principal-->
+            </div><!-- /.content-wrapper -->
+
+            <!-- Pie de pagina -->
+            <footer class="main-footer">
+                <div class="pull-right hidden-xs">
+                    <b>Version</b> 2.0
+                </div>
+                <strong>Copyright &copy; 2014-2015 <a href="#">ProPalma-UFPS</a>.</strong>
+            </footer>
+
+        </div><!-- wrapper-->
+
+
+        <!-- Funciones js -->
+
+        <!-- jQuery 2.1.3 -->
+        <script src="../js/plugins/jQuery/jQuery-2.1.3.min.js"></script>
+        <!-- jQuery UI 1.11.2 -->
+        <script src="../js/plugins/jQueryUI/jquery-ui.min.js" type="text/javascript"></script>
+        <!-- Resolve conflict in jQuery UI tooltip with Bootstrap tooltip -->
+        <script>
+            $.widget.bridge('uibutton', $.ui.button);
+        </script>
+        <!-- Bootstrap 3.3.2 JS -->
+        <script src="../js/bootstrap/bootstrap.min.js" type="text/javascript"></script>   
+        <!-- AdminLTE App Oculta el menu-->
+        <script src="../js/app/app.min.js" type="text/javascript"></script>
+    </body>
+
+</html>

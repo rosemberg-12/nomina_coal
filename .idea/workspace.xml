@@ -1,0 +1,690 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5b80b2b9-85f5-4cdb-b62e-4cda622dcbb6" name="Default" comment="" />
+    <ignored path="coalnorth.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="coalnorth" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="cambiarContrasena.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cambiarContrasena.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="61" column="58" selection-start="1684" selection-end="1684" vertical-scroll-proportion="0.0" vertical-offset="912" max-vertical-offset="2040">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="facade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/facade/facade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="401" column="33" selection-start="13846" selection-end="13846" vertical-scroll-proportion="0.0" vertical-offset="6817" max-vertical-offset="7004">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cambiarPass.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cambiarPass.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="33" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="476">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="control_sesion.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/controllers/control_sesion.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="20" column="43" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="2839">
+              <folding>
+                <marker date="1460616459861" expanded="true" signature="2697:3025" placeholder="..." />
+                <marker date="1460616459861" expanded="true" signature="2743:2994" placeholder="..." />
+                <marker date="1460616459861" expanded="true" signature="2799:2959" placeholder="..." />
+                <marker date="1460616459861" expanded="false" signature="2849:2868" placeholder="..." />
+                <marker date="1460616459861" expanded="true" signature="4118:4446" placeholder="..." />
+                <marker date="1460616459861" expanded="true" signature="4164:4415" placeholder="..." />
+                <marker date="1460616459861" expanded="true" signature="4220:4380" placeholder="..." />
+                <marker date="1460616459861" expanded="false" signature="4270:4289" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="barraLateralPickHacienda.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/barraLateralPickHacienda.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="21" column="32" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="663">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cargarTiposPuestoT.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cargarTiposPuestoT.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.08443709" vertical-offset="0" max-vertical-offset="604">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="barraLateralUser.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/html/barraLateralUser.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="32" column="54" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="850">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="empleado_dao.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/dao/empleado_dao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="16" column="5" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="2788">
+              <folding>
+                <marker date="1460616715687" expanded="true" signature="171:220" placeholder="UPDATE emple..." />
+                <marker date="1460616715687" expanded="true" signature="471:524" placeholder="UPDATE emple..." />
+                <marker date="1460616715687" expanded="true" signature="756:870" placeholder="SELECT * FRO..empleado_coal..." />
+                <marker date="1460616715687" expanded="true" signature="1454:1517" placeholder="SELECT * FRO..administrador..." />
+                <marker date="1460616715687" expanded="true" signature="1889:1945" placeholder="SELECT * FRO..empleado_coal..." />
+                <marker date="1460616715687" expanded="true" signature="2489:2600" placeholder="INSERT INTO ..." />
+                <marker date="1460616715687" expanded="true" signature="3030:3074" placeholder="UPDATE emple..." />
+                <marker date="1460616715687" expanded="true" signature="3255:3294" placeholder="UPDATE emple..." />
+                <marker date="1460616715687" expanded="true" signature="3497:3537" placeholder="UPDATE emple..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/css/AdminLTE.min.css" />
+        <option value="$PROJECT_DIR$/asignarVisitante.php" />
+        <option value="$PROJECT_DIR$/asignar-i.php" />
+        <option value="$PROJECT_DIR$/admin.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/pick-minaV.php" />
+        <option value="$PROJECT_DIR$/indexUserV.php" />
+        <option value="$PROJECT_DIR$/html/barraLateralUserV.php" />
+        <option value="$PROJECT_DIR$/pick-trabajadorV.php" />
+        <option value="$PROJECT_DIR$/verDetallesV.php" />
+        <option value="$PROJECT_DIR$/html/barraLateralUserVolverLaboresV.php" />
+        <option value="$PROJECT_DIR$/verNominaV.php" />
+        <option value="$PROJECT_DIR$/php/controllers/control_descuentos.php" />
+        <option value="$PROJECT_DIR$/verDescuentosV.php" />
+        <option value="$PROJECT_DIR$/php/controllers/control_bonos.php" />
+        <option value="$PROJECT_DIR$/verBonosV.php" />
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/php/controllers/control_empleados.php" />
+        <option value="$PROJECT_DIR$/registrarPuestoTrabajo.php" />
+        <option value="$PROJECT_DIR$/php/dto/puesto_trabajo.php" />
+        <option value="$PROJECT_DIR$/php/dao/puesto_trabajo_dao.php" />
+        <option value="$PROJECT_DIR$/cargarTiposPuestoT.php" />
+        <option value="$PROJECT_DIR$/registrarNomina.php" />
+        <option value="$PROJECT_DIR$/registrarLabor2.php" />
+        <option value="$PROJECT_DIR$/verDetalles.php" />
+        <option value="$PROJECT_DIR$/registrarLabor1.php" />
+        <option value="$PROJECT_DIR$/scripRegistrarTipoLabor.php" />
+        <option value="$PROJECT_DIR$/php/controllers/control_labores.php" />
+        <option value="$PROJECT_DIR$/php/dao/labor_dao.php" />
+        <option value="$PROJECT_DIR$/scripRegistrarLabor.php" />
+        <option value="$PROJECT_DIR$/scripAsignarSueldo.php" />
+        <option value="$PROJECT_DIR$/php/dto/empleado.php" />
+        <option value="$PROJECT_DIR$/php/dto/mina.php" />
+        <option value="$PROJECT_DIR$/asignar-sueldo.php" />
+        <option value="$PROJECT_DIR$/php/dao/mina_dao.php" />
+        <option value="$PROJECT_DIR$/scripRegistrarPuesto.php" />
+        <option value="$PROJECT_DIR$/exportar.php" />
+        <option value="$PROJECT_DIR$/decision2.php" />
+        <option value="$PROJECT_DIR$/php/controllers/control_cvs.php" />
+        <option value="$PROJECT_DIR$/administrar-m.php" />
+        <option value="$PROJECT_DIR$/php/controllers/control_mina.php" />
+        <option value="$PROJECT_DIR$/html/head.html" />
+        <option value="$PROJECT_DIR$/pick-mina.php" />
+        <option value="$PROJECT_DIR$/cambiarContrasena.php" />
+        <option value="$PROJECT_DIR$/php/facade/facade.php" />
+        <option value="$PROJECT_DIR$/cambiarPass.php" />
+        <option value="$PROJECT_DIR$/php/controllers/control_sesion.php" />
+        <option value="$PROJECT_DIR$/php/dao/empleado_dao.php" />
+        <option value="$PROJECT_DIR$/html/barraLateralUser.php" />
+        <option value="$PROJECT_DIR$/html/barraLateralPickHacienda.php" />
+        <option value="$PROJECT_DIR$/js/app/main.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="54" />
+    <option name="y" value="-8" />
+    <option name="width" value="1320" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coalnorth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coalnorth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coalnorth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coalnorth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coalnorth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coalnorth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coalnorth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="php" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="controllers" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coalnorth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coalnorth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coalnorth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coalnorth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coalnorth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="coalnorth" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="html" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../minas" />
+    <property name="SearchEverywhereHistory" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\coalnorth\html" />
+      <recent name="C:\xampp\htdocs\coalnorth" />
+      <recent name="C:\xampp\htdocs\coalnorth\php\controllers" />
+      <recent name="C:\xampp\htdocs\coalnorth\php\dao" />
+      <recent name="C:\xampp\htdocs\coalnorth\php\dto" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b80b2b9-85f5-4cdb-b62e-4cda622dcbb6" name="Default" comment="" />
+      <created>1453761315790</created>
+      <updated>1453761315790</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="54" y="-8" width="1320" height="784" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25690183" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3293944" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/administrar-empleados.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="75" selection-start="2862" selection-end="2862" vertical-scroll-proportion="0.0" vertical-offset="1275" max-vertical-offset="2482" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrar-mantos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="84" column="70" selection-start="2779" selection-end="2779" vertical-scroll-proportion="0.6666667" vertical-offset="1020" max-vertical-offset="2431" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dto/puesto_trabajo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="6" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0272" vertical-offset="0" max-vertical-offset="625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/eliminar-p.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="26" selection-start="372" selection-end="372" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="510" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pick-trabajadorV.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="51" selection-start="2861" selection-end="2861" vertical-scroll-proportion="-11.769231" vertical-offset="1377" max-vertical-offset="2686" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registrarNomina.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="67" column="58" selection-start="1720" selection-end="1720" vertical-scroll-proportion="-12.769231" vertical-offset="807" max-vertical-offset="3281" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app/app.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="617" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripRegistrarTipoLabor2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="617" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registrarLabor2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="65" selection-start="1308" selection-end="1308" vertical-scroll-proportion="0.23011844" vertical-offset="765" max-vertical-offset="2618" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/verDetalles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="26" selection-start="396" selection-end="396" vertical-scroll-proportion="0.33333334" vertical-offset="204" max-vertical-offset="2822" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registrarLabor1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="55" selection-start="1298" selection-end="1298" vertical-scroll-proportion="10.115385" vertical-offset="1164" max-vertical-offset="2414" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripRegistrarTipoLabor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="12" selection-start="510" selection-end="510" vertical-scroll-proportion="0.5168" vertical-offset="0" max-vertical-offset="625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controllers/control_labores.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="42" selection-start="1593" selection-end="1593" vertical-scroll-proportion="0.0" vertical-offset="544" max-vertical-offset="4454" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dao/labor_dao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="290" column="0" selection-start="9397" selection-end="9397" vertical-scroll-proportion="0.0" vertical-offset="4930" max-vertical-offset="6426" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripRegistrarLabor.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="16" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.3076923" vertical-offset="0" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registrarBonos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="77" selection-start="2068" selection-end="2068" vertical-scroll-proportion="0.3888889" vertical-offset="1020" max-vertical-offset="2261" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dto/mina.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="20" selection-start="105" selection-end="105" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="374" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripAsignarSueldo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="23" selection-start="264" selection-end="264" vertical-scroll-proportion="0.0" vertical-offset="221" max-vertical-offset="425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dto/tipo_puesto_trabajo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="6" selection-start="13" selection-end="13" vertical-scroll-proportion="0.028145695" vertical-offset="0" max-vertical-offset="604" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dao/tipo_puesto_trabajo_dao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="29" column="20" selection-start="511" selection-end="511" vertical-scroll-proportion="0.50827813" vertical-offset="186" max-vertical-offset="816" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dao/manto_dao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="20" selection-start="1099" selection-end="1099" vertical-scroll-proportion="0.36754966" vertical-offset="730" max-vertical-offset="1360" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/asignar-sueldo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="61" selection-start="3128" selection-end="3128" vertical-scroll-proportion="0.7208122" vertical-offset="1070" max-vertical-offset="2499" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scripRegistrarPuesto.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="0" selection-start="293" selection-end="293" vertical-scroll-proportion="0.37394246" vertical-offset="0" max-vertical-offset="833" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pick-trabajador.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="52" selection-start="2861" selection-end="2861" vertical-scroll-proportion="0.25" vertical-offset="1530" max-vertical-offset="2686" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/registrarPuestoTrabajo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="61" selection-start="1316" selection-end="1316" vertical-scroll-proportion="0.2777778" vertical-offset="731" max-vertical-offset="2346" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reasignar-empleado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="71" selection-start="2349" selection-end="2349" vertical-scroll-proportion="-7.8461537" vertical-offset="1071" max-vertical-offset="2397" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controllers/control_empleados.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="115" column="36" selection-start="2642" selection-end="2642" vertical-scroll-proportion="0.5136876" vertical-offset="1636" max-vertical-offset="3043" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dao/puesto_trabajo_dao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="20" selection-start="659" selection-end="659" vertical-scroll-proportion="0.33552632" vertical-offset="306" max-vertical-offset="2074" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrar-m.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="90" column="81" selection-start="3278" selection-end="3278" vertical-scroll-proportion="0.0" vertical-offset="1462" max-vertical-offset="2550" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controllers/control_mina.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="585" column="0" selection-start="16384" selection-end="16384" vertical-scroll-proportion="0.43092105" vertical-offset="9683" max-vertical-offset="14093" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="0" selection-start="383" selection-end="454" vertical-scroll-proportion="-5.230769" vertical-offset="34" max-vertical-offset="833" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dao/descuento_dao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="101" column="8" selection-start="2759" selection-end="2759" vertical-scroll-proportion="-3.5" vertical-offset="1541" max-vertical-offset="2499" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/decision2.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="133" column="34" selection-start="2193" selection-end="2193" vertical-scroll-proportion="0.0" vertical-offset="2261" max-vertical-offset="3655" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exportar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="212" column="67" selection-start="8651" selection-end="8651" vertical-scroll-proportion="0.0" vertical-offset="3271" max-vertical-offset="7361" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controllers/control_cvs.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="368" column="20" selection-start="10859" selection-end="10859" vertical-scroll-proportion="0.0" vertical-offset="6064" max-vertical-offset="7514" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dao/bases.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="22" selection-start="140" selection-end="140" vertical-scroll-proportion="0.19381107" vertical-offset="0" max-vertical-offset="614" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dao/mina_dao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="101" selection-start="2089" selection-end="2171" vertical-scroll-proportion="-10.653846" vertical-offset="1389" max-vertical-offset="7854" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/barraLateralCC.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="0" selection-start="760" selection-end="1173" vertical-scroll-proportion="-10.461538" vertical-offset="0" max-vertical-offset="765" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pick-mina.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="30" selection-start="389" selection-end="389" vertical-scroll-proportion="-14.384615" vertical-offset="0" max-vertical-offset="1598" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dto/empleado.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="6" selection-start="13" selection-end="13" vertical-scroll-proportion="0.0272" vertical-offset="0" max-vertical-offset="625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="25" selection-start="484" selection-end="484" vertical-scroll-proportion="0.5555556" vertical-offset="0" max-vertical-offset="2788" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cambiarContrasena.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="58" selection-start="1684" selection-end="1684" vertical-scroll-proportion="0.0" vertical-offset="912" max-vertical-offset="2040">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cambiarPass.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="33" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="476">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/facade/facade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="401" column="33" selection-start="13846" selection-end="13846" vertical-scroll-proportion="0.0" vertical-offset="6379" max-vertical-offset="7004">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/dao/empleado_dao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="5" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="272" max-vertical-offset="2788">
+          <folding>
+            <marker date="1460616715687" expanded="true" signature="171:220" placeholder="UPDATE emple..." />
+            <marker date="1460616715687" expanded="true" signature="471:524" placeholder="UPDATE emple..." />
+            <marker date="1460616715687" expanded="true" signature="756:870" placeholder="SELECT * FRO..empleado_coal..." />
+            <marker date="1460616715687" expanded="true" signature="1454:1517" placeholder="SELECT * FRO..administrador..." />
+            <marker date="1460616715687" expanded="true" signature="1889:1945" placeholder="SELECT * FRO..empleado_coal..." />
+            <marker date="1460616715687" expanded="true" signature="2489:2600" placeholder="INSERT INTO ..." />
+            <marker date="1460616715687" expanded="true" signature="3030:3074" placeholder="UPDATE emple..." />
+            <marker date="1460616715687" expanded="true" signature="3255:3294" placeholder="UPDATE emple..." />
+            <marker date="1460616715687" expanded="true" signature="3497:3537" placeholder="UPDATE emple..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/controllers/control_sesion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="43" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="2839">
+          <folding>
+            <marker date="1460616459861" expanded="true" signature="2697:3025" placeholder="..." />
+            <marker date="1460616459861" expanded="true" signature="2743:2994" placeholder="..." />
+            <marker date="1460616459861" expanded="true" signature="2799:2959" placeholder="..." />
+            <marker date="1460616459861" expanded="false" signature="2849:2868" placeholder="..." />
+            <marker date="1460616459861" expanded="true" signature="4118:4446" placeholder="..." />
+            <marker date="1460616459861" expanded="true" signature="4164:4415" placeholder="..." />
+            <marker date="1460616459861" expanded="true" signature="4220:4380" placeholder="..." />
+            <marker date="1460616459861" expanded="false" signature="4270:4289" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/barraLateralUser.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="54" selection-start="1681" selection-end="1681" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="850">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/html/barraLateralPickHacienda.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="32" selection-start="1101" selection-end="1101" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="663">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/app/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="235" column="4" selection-start="7148" selection-end="7172" vertical-scroll-proportion="6.4748783" vertical-offset="0" max-vertical-offset="4148" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/administrar-descuentos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="11" selection-start="4864" selection-end="4864" vertical-scroll-proportion="0.76988155" vertical-offset="1840" max-vertical-offset="2431" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cargarTiposPuestoT.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="20" selection-end="20" vertical-scroll-proportion="0.08443709" vertical-offset="0" max-vertical-offset="604">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
